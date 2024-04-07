@@ -1,0 +1,339 @@
+Abstract ID	Term	Curie	Label	Label_SourceRank	Class_SourceRank	ClassDescription_SourceRank
+29774442	Harm reduction services	UMLS:C0679771	Harm Reduction		NameRes_1,SAPBert_6	NameRes_1,SAPBert_6
+29774442	Medication-assisted treatment, HIV and HCV treatment, HIV pre-exposure prophylaxis, Behavioral health services	UMLS:C5819529	Encounter for HIV pre-exposure prophylaxis	NameRes_3	NameRes_3	NameRes_3
+29774442	Medication-assisted treatment, HIV and HCV treatment, HIV pre-exposure prophylaxis, Behavioral health services	UMLS:C4704949	Medication Assisted Treatment of Opioid	NameRes_7	NameRes_7	NameRes_7
+29774442	Medication-assisted treatment, HIV and HCV treatment, HIV pre-exposure prophylaxis, Behavioral health services	UMLS:C0994326	Behavioral Health and/or Substance Abuse Treatment Services		NameRes_1	NameRes_1
+29774442	OUD, HCV, HIV	MONDO:0005231	hepatitis C virus infection	SAPBert_4	SAPBert_4	SAPBert_4
+29774442	Models of care	UMLS:C0596657	health care model	SAPBert_1		
+29774442	Research	UMLS:C0035168	research	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+36053258	Fentanyl	PUBCHEM.COMPOUND:3345	Fentanyl	SAPBert_1	SAPBert_1	SAPBert_1
+36053258	NPAS2	NCBIGene:18143	Npas2 (Mus musculus)	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1
+36053258	Fentanyl analgesia	UMLS:C3202977	Analgesia		NameRes_1,SAPBert_3	
+36053258	Fentanyl analgesia	PUBCHEM.COMPOUND:3345	Fentanyl		SAPBert_6	
+36053258	Chronic pain	HP:0012532	Chronic pain	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+36053258	Chronic pain	UMLS:C5700083	chronic pain (diagnosis)	NameRes_4	NameRes_4	
+34864356	Naloxone	PUBCHEM.COMPOUND:5284596	Naloxone	SAPBert_1	SAPBert_1	SAPBert_1
+34864356	Opioid overdoses	UMLS:C0579142	Opiate Overdose	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1
+34864356	Communities with more individuals treated with buprenorphine and communities with more opioid-related overdose deaths	UMLS:C5229059	Medication assisted treatment, buprenorphine (oral); weekly bundle including dispensing and/or administration, substance use counseling, individual and group therapy, and toxicology testing if performed (provision of the services by a medicare-enrolled opioid treatment program)		SAPBert_6	SAPBert_6
+34864356	Communities with larger Hispanic populations and more rural communities	UMLS:C0086944	Rural Communities	NameRes_1	NameRes_1	NameRes_1
+34864356	Communities with larger Hispanic populations and more rural communities	UMLS:C0019576	Hispanic Americans		SAPBert_1	SAPBert_1
+34864356	Pharmacist	UMLS:C0031323	Pharmacist	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+35441890	Intervertebral disc degeneration	MONDO:0011385	intervertebral disc degenerative disorder	SAPBert_1	SAPBert_1	SAPBert_1
+35441890	Disc health	UBERON:0001066	intervertebral disk		SAPBert_1	
+35441890	Cartilage endplate (CEP)	UBERON:0014386	vertebral endplate	SAPBert_3	SAPBert_3	SAPBert_3
+35441890	Cartilage endplate (CEP)	UMLS:C4510222	Structure of vertebral endplate	SAPBert_4	SAPBert_4	
+35441890	Vertebral bone marrow fat fraction (BMFF)	UMLS:C0229622	Structure of bone marrow of vertebral body	NameRes_7	NameRes_7	
+33481403	Postoperative nausea and vomiting (PONV)	UMLS:C0520909	Postoperative Nausea and Vomiting	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+33481403	Analgesia	UMLS:C0451615	Pain relief	SAPBert_4		
+33481403	Analgesia	UMLS:C1304888	Pain control	SAPBert_9	SAPBert_9	
+33481403	Opioid use	UMLS:C0240602	opioid use	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+33481403	Respiratory depression	EFO:0009842	respiratory depression	NameRes_1	NameRes_1	NameRes_1
+33481403	Methadone	CHEBI:136003	(-)-methadone	NameRes_1	NameRes_1	
+33481403	Methadone	PUBCHEM.COMPOUND:4095	Methadone	SAPBert_1	SAPBert_1	SAPBert_1
+33481403	Methadone	UMLS:C0699061	Amidone brand of methadone	SAPBert_7	SAPBert_7	
+33481403	Morphine equivalent dose	UMLS:C4724759	Milligram Morphine Equivalent	NameRes_1,SAPBert_6	NameRes_1,SAPBert_6	NameRes_1,SAPBert_6
+30829142	Turnover	UMLS:C0031227	Personnel Turnover	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1
+30829142	Substance use disorder (SUD)	UMLS:C0038586	Substance Use Disorders	SAPBert_1	SAPBert_1	SAPBert_1
+30829142	Agency employment	UMLS:C0014003	Employment	NameRes_6,SAPBert_2		
+30247321	Physicians	UMLS:C1306754	Medical practitioner	SAPBert_2	SAPBert_2	SAPBert_2
+30247321	Surgical specialty	UMLS:C3853799	Allopathic & Osteopathic Physicians - Surgery	SAPBert_4		SAPBert_4
+30247321	Providers	UMLS:C1138603	Provider	SAPBert_1	SAPBert_1	
+30247321	Opioid	PUBCHEM.COMPOUND:126961754	Opioid	NameRes_1	NameRes_1	NameRes_1
+30247321	Opioid	MESH:D000701	Analgesics, Opioid	SAPBert_2	SAPBert_2	
+30247321	Opioid	UMLS:C0242402	Opioids		SAPBert_1	
+35988161	Nonpharmacological interventions	UMLS:C4050321	Nonpharmacologic intervention for pain:Type:Pt:^Patient:Nom	SAPBert_2	SAPBert_2	SAPBert_2
+35988161	Cancer patients with chronic pain	NCIT:C9467	Chronic Cancer Pain	NameRes_1	NameRes_1	NameRes_1
+35988161	Cancer patients with chronic pain	UMLS:C4544056	Chronic pain due to malignant neoplastic disease		SAPBert_1	
+35988161	Pain catastrophizing	UMLS:C3178745	Pain Catastrophizing	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+35988161	Pain interference	UMLS:C4034389	Pain interference score	NameRes_1	NameRes_1	NameRes_1
+35988161	Depression	UMLS:C2362914	Clinical depression	SAPBert_3	SAPBert_3	
+35988161	Depression	MONDO:0002050	depressive disorder	SAPBert_8	SAPBert_8	SAPBert_8
+35988161	Pain severity	UMLS:C1507013	Pain severity	NameRes_1	NameRes_1	NameRes_1
+28151486	BIK	NCBIGene:638	BIK (Homo sapiens)	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2
+28151486	BIK	UMLS:C0384003	BIK protein, human	SAPBert_5	SAPBert_5	
+28151486	Star-PAP	UniProtKB:Q9H6E5	STPAP_HUMAN Speckle targeted PIP5K1A-regulated poly(A) polymerase (sprot)	SAPBert_7	SAPBert_7	SAPBert_7
+28151486	Chemotherapy drugs	UMLS:C0729502	Chemotherapeutic agent	SAPBert_1	SAPBert_1	SAPBert_1
+28151486	Breast cancer	MONDO:0007254	breast cancer	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+28151486	Breast cancer	MONDO:0004989	breast carcinoma	SAPBert_2	SAPBert_2	
+28151486	Breast cancer	UMLS:C0947741	Breast neoplasms malignant and unspecified (incl nipple)	SAPBert_3	SAPBert_3	
+28151486	Breast cancer	UMLS:C3649897	malignant breast tissue neoplasm	SAPBert_4	SAPBert_4	
+28151486	Breast cancer	UMLS:C1299258	Primary malignant neoplasm of breast	SAPBert_5	SAPBert_5	
+28151486	Breast cancer	UMLS:C2842138	Malignant neoplasm of unspecified site of unspecified female breast	SAPBert_7	SAPBert_7	
+28151486	Mammary epithelial cells	CL:0002327	mammary gland epithelial cell	NameRes_3,SAPBert_1	NameRes_3,SAPBert_1	NameRes_3,SAPBert_1
+31445430	Negative affect	HP:0031467	Negative affectivity	NameRes_2	NameRes_2	NameRes_2
+31445430	Infants	UMLS:C0021270	Infant	SAPBert_1	SAPBert_1	SAPBert_1
+31445430	Mothers	UMLS:C0026591	Mother (person)	SAPBert_1	SAPBert_1	SAPBert_1
+31445430	Positive affect	UMLS:C0233474	Pleasurable affect, NOS	SAPBert_1	SAPBert_1	
+18544179	Fentanyl	PUBCHEM.COMPOUND:3345	Fentanyl	SAPBert_1	SAPBert_1	SAPBert_1
+18544179	Bradycardia	HP:0001662	Bradycardia	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+18544179	Bradycardia	UMLS:C0858328	Bradycardia NOS (excl fetal)	SAPBert_9	SAPBert_9	
+18544179	Respiratory depression	EFO:0009842	respiratory depression	NameRes_1	NameRes_1	NameRes_1
+18544179	Pain	HP:0012531	Pain	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+18544179	Nausea and vomiting	UMLS:C0520909	Postoperative Nausea and Vomiting	NameRes_2	NameRes_2	NameRes_2
+32168224	HCV	UMLS:C0220847	hepatitis C virus	SAPBert_1	SAPBert_1	SAPBert_1
+32168224	Injection drug use	UMLS:C0699778	intravenous drug use	SAPBert_1	SAPBert_1	SAPBert_1
+32168224	Injection drug use	UMLS:C5424598	Injection drug use		NameRes_1	
+32168224	Pregnant women	UMLS:C0033011	Pregnant Women	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+32168224	HCV antibody	NCIT:C160411	Hepatitis C Virus Antibody Positive	NameRes_8,SAPBert_10		NameRes_8,SAPBert_10
+32168224	HCV antibody	MESH:D018937	Hepatitis C Antibodies	NameRes_9,SAPBert_1	NameRes_9,SAPBert_1	
+32168224	HCV antibody	UMLS:C0166049	Hepatitis C Antibodies	NameRes_10	NameRes_10	
+32168224	Neonates	UMLS:C0021289	Infant, Newborn	SAPBert_3	SAPBert_3	SAPBert_3
+32168224	Mothers	UMLS:C0026591	Mother (person)	SAPBert_1	SAPBert_1	SAPBert_1
+32168224	Blood transfusion	UMLS:C0005841	Blood Transfusion	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+32168224	Blood transfusion	UMLS:C0371802	Transfusion, blood or blood components	SAPBert_4	SAPBert_4	
+35625888	Opioid withdrawal in neonates	UMLS:C2063269	neonatal opioid withdrawal	NameRes_3,SAPBert_1	NameRes_3,SAPBert_1	NameRes_3,SAPBert_1
+35625888	Opioid withdrawal in neonates	UMLS:C3274639	Neonatal Opiate Withdrawal Syndrome	SAPBert_2	SAPBert_2	
+35625888	Placental dysfunction	UMLS:C0233368	Deficiency of placental function	SAPBert_2	SAPBert_2	
+35625888	Placental dysfunction	UMLS:C3469140	placental dysfunction affecting newborn		NameRes_1,SAPBert_5	
+35625888	Genes (PLD1, MGAM, ALCS2, KCNMA1)	NCBIGene:8972	MGAM (Homo sapiens)	NameRes_1	NameRes_1	NameRes_1
+35625888	Abnormal fetal brain development	UMLS:C3272759	Brain Development Abnormality	SAPBert_1	SAPBert_1	SAPBert_1
+35625888	Prenatal opioid exposure	UMLS:C2114037	prenatal exposure to narcotics	NameRes_7,SAPBert_1	NameRes_7,SAPBert_1	NameRes_7,SAPBert_1
+35625888	Placental DNA methylation	UMLS:C0376452	DNA Methylation	SAPBert_3		SAPBert_3
+35625888	Differentially methylated CpG sites	GO:0010424	DNA methylation on cytosine within a CG sequence	SAPBert_9	SAPBert_9	SAPBert_9
+33138931	Individuals with SUD	UMLS:C0033882	Psychoactive substance use disorder, NOS	SAPBert_9	SAPBert_9	SAPBert_9
+33138931	Parenting support	UMLS:C5687154	Intervention to support parenting	NameRes_1,SAPBert_4	NameRes_1,SAPBert_4	NameRes_1,SAPBert_4
+33138931	Parenting support	UMLS:C0418946	Support for parent	SAPBert_1	SAPBert_1	
+31722022	Counties in the highest unemployment quartile	UMLS:C0041674	Unemployment			NameRes_2,SAPBert_2
+31722022	Neonatal Abstinence Syndrome (NAS)	MONDO:0005566	neonatal abstinence syndrome	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+31722022	Neonatal Abstinence Syndrome (NAS)	UMLS:C3274639	Neonatal Opiate Withdrawal Syndrome	SAPBert_3	SAPBert_3	
+31722022	Neonatal Abstinence Syndrome (NAS)	UMLS:C3540839	Neonatal Drug Withdrawal	SAPBert_6	SAPBert_6	
+31722022	Neonates with NAS	MONDO:0005566	neonatal abstinence syndrome	SAPBert_1	SAPBert_1	SAPBert_1
+31722022	Metropolitan counties	UMLS:C0815251	metropolitan area	NameRes_5	NameRes_5	NameRes_5
+16720068	74-year-old man	UMLS:C4035745	70-74 years old	NameRes_4	NameRes_4	NameRes_4
+16720068	paroxetine and alprazolam	CHEBI:2611	alprazolam	NameRes_1	NameRes_1	NameRes_1
+16720068	paroxetine and alprazolam	PUBCHEM.COMPOUND:934161	Paroxetine, cis-(+/-)-		NameRes_9	
+16720068	Depressive symptoms	UMLS:C0086132	Depressive Symptoms	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+16720068	Neuroleptic malignant syndrome (NMS)	MONDO:0019790	neuroleptic malignant syndrome	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34580157	Temporomandibular disorder	MONDO:0005473	temporomandibular joint disorder	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34580157	Masseter muscle	UBERON:0001597	masseter muscle	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34580157	Masseter muscle	UMLS:C0024876	Masseter muscle structure	SAPBert_2	SAPBert_2	
+34580157	Pain	HP:0012531	Pain	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34580157	Facial surgery	UMLS:C2224535	facial surgery	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34580157	Trigeminal sensory neurons	CL:4023170	trigeminal sensory neuron	NameRes_2	NameRes_2	NameRes_2
+21911891	4G/5G gene polymorphism	UMLS:C2082389	plasminogen activator inhibitor 1 (PAI-1) 4g/5g polymorphism	NameRes_2,SAPBert_2	NameRes_2,SAPBert_2	
+21911891	4G/5G gene polymorphism	UMLS:C3476465	SERPINE1 gene.c.-675 4G+5G	NameRes_3,SAPBert_3	NameRes_3,SAPBert_3	NameRes_3,SAPBert_3
+21911891	Liver fibrosis	HP:0001395	Hepatic fibrosis	SAPBert_1	SAPBert_1	SAPBert_1
+21911891	PAI-1 serum levels	UMLS:C0522856	Plasminogen activator inhibitor type 1 antigen assay	SAPBert_2	SAPBert_2	
+36335807	socio-demographic, ethnic, and racial representation	UMLS:C0935564	Racial and Ethnic Groups			NameRes_2
+36335807	health inequities	UMLS:C5544540	Health Inequities	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+36335807	health inequities	UMLS:C1171307	health disparity	SAPBert_2	SAPBert_2	
+36335807	health inequities	UMLS:C1955989	Healthcare Disparities	SAPBert_3	SAPBert_3	
+36335807	health inequities	UMLS:C1955988	Health Status Disparities	SAPBert_4	SAPBert_4	
+36335807	health inequities	UMLS:C5690785	Social Disparities in Health	SAPBert_5	SAPBert_5	
+36335807	health inequities	UMLS:C5690783	Economic Disparities in Health	SAPBert_6	SAPBert_6	
+36335807	Diversity in DCN research	UMLS:C1880371	Diversity	SAPBert_1		
+32071073	Clonidine	PUBCHEM.COMPOUND:4656	PI-CLONIDINE		NameRes_2	
+32071073	Sucrose Solution	PUBCHEM.COMPOUND:5988	Sucrose	SAPBert_2	SAPBert_2	
+32071073	Meloxicam	CHEBI:6741	meloxicam	NameRes_1	NameRes_1	NameRes_1
+32071073	Meloxicam	PUBCHEM.COMPOUND:54677470	Meloxicam	SAPBert_1	SAPBert_1	
+32071073	Thermal Pain Tolerance	UMLS:C3276613	Increased pain tolerance	NameRes_3,SAPBert_10	NameRes_3,SAPBert_10	NameRes_3,SAPBert_10
+31308053	TRESK	REACT:R-MMU-1299338	Activation of TRESK (Mus musculus)	NameRes_5	NameRes_5	
+31308053	TRESK	NCBIGene:9424	KCNK6 (Homo sapiens)	SAPBert_2	SAPBert_2	SAPBert_2
+31308053	Nociceptors	UBERON:0035017	nociceptor	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+31308053	Nociceptors	CL:0000198	pain receptor cell	SAPBert_2	SAPBert_2	
+31308053	Headache	HP:0002315	Headache	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+31308053	TRESK knock-out mice	MESH:D018345	Mice, Knockout	NameRes_4	NameRes_4	NameRes_4
+35080937	North Carolina population	UMLS:C0028407	North Carolina	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+35080937	Opioid Overdose Death (OOD)	UMLS:C4036237	Medical-Opioid Poisoning/Overdose	NameRes_2	NameRes_2	NameRes_2
+35080937	Synthetic narcotics	UMLS:C0682986	synthetic opioids	SAPBert_4	SAPBert_4	SAPBert_4
+31689297	Circadian rhythms, Learning and memory, Stress response	UMLS:C1154338	learning and/or memory	NameRes_1	NameRes_1	NameRes_1
+31689297	Circadian rhythms, Learning and memory, Stress response	UMLS:C0008810	Circadian Rhythms	NameRes_5,SAPBert_6	NameRes_5,SAPBert_6	NameRes_5,SAPBert_6
+31689297	VIPR2	NCBIGene:7434	VIPR2 (Homo sapiens)	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+31689297	Opioid addiction	UMLS:C4529964	Opioid Abuse and Addiction	NameRes_4	NameRes_4	NameRes_4
+31689297	Opioid addiction	MONDO:0001225	opioid abuse		SAPBert_1	
+32583337	Opioid use disorder	UMLS:C4324621	Opioid Use Disorder	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+32583337	Medications for opioid use disorder	UMLS:C5209216	Opioid Use Disorder Treatment	NameRes_8	NameRes_8	
+32583337	Medications for opioid use disorder	UMLS:C4704949	Medication Assisted Treatment of Opioid	SAPBert_9	SAPBert_9	SAPBert_9
+32583337	Education	UMLS:C1292796	Education - action	SAPBert_1	SAPBert_1	SAPBert_1
+32583337	Education	UMLS:C0281163	Educational Intervention	SAPBert_3		
+32583337	Veterans	UMLS:C0042610	Veterans	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+32583337	Veterans	UMLS:C0237945	Military Veterans	NameRes_5,SAPBert_2	NameRes_5,SAPBert_2	
+32583337	Counseling	UMLS:C0010210	Counseling	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34103399	Permanent molars	UMLS:C1720362	Entire permanent molar tooth	SAPBert_1	SAPBert_1	SAPBert_1
+34103399	Family income	UMLS:C0557163	Household income	SAPBert_1	SAPBert_1	SAPBert_1
+34103399	Stress	NCIT:C35041	Stress	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34103399	Stress	UMLS:C0449430	Physiological Stress	SAPBert_6	SAPBert_6	
+34103399	Adverse childhood experiences (ACEs)	UMLS:C4296616	Adverse Childhood Experiences	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2
+34103399	T2-weighted magnetic resonance images (MRI)	UMLS:C5556594	T2-Weighted Magnetic Resonance Imaging	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34103399	Biological development	UMLS:C0678723	Biologic Development		NameRes_2,SAPBert_1	
+34103399	Early life stress	UMLS:C5392223	Early Life Stress	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+33403685	Naloxone	PUBCHEM.COMPOUND:5284596	Naloxone	SAPBert_1	SAPBert_1	SAPBert_1
+33403685	Barriers	UMLS:C0679881	barriers to treatment	SAPBert_3		SAPBert_3
+33403685	Opioid-use disorder	UMLS:C4324621	Opioid Use Disorder	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+33403685	Access to treatment	UMLS:C4039697	Facilitation of access to treatment	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2
+33403685	Access to treatment	UMLS:C5243474	Access to Therapy	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1
+33403685	Access to treatment	UMLS:C0018748	Health Services Accessibility	SAPBert_10	SAPBert_10	
+33646995	Dimethyl Fumarate (DMF)	PUBCHEM.COMPOUND:637568	Dimethyl fumarate	SAPBert_1	SAPBert_1	SAPBert_1
+33646995	Innate immune system	REACT:R-MMU-168249	Innate Immune System (Mus musculus)	NameRes_4	NameRes_4	NameRes_4
+33646995	DMF	PUBCHEM.COMPOUND:637568	Dimethyl fumarate	SAPBert_5	SAPBert_5	SAPBert_5
+33646995	Complex Regional Pain Syndrome (CRPS)	MONDO:0019369	complex regional pain syndrome	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+33646995	Nrf2	PR:000011170	nuclear factor erythroid 2-related factor 2	SAPBert_6	SAPBert_6	SAPBert_6
+29774442	Harm reduction services	UMLS:C0679771	Harm Reduction		NameRes_1,SAPBert_6	NameRes_1,SAPBert_6
+29774442	Medication-assisted treatment, HIV and HCV treatment, HIV pre-exposure prophylaxis, Behavioral health services	UMLS:C5819529	Encounter for HIV pre-exposure prophylaxis	NameRes_3	NameRes_3	NameRes_3
+29774442	Medication-assisted treatment, HIV and HCV treatment, HIV pre-exposure prophylaxis, Behavioral health services	UMLS:C4704949	Medication Assisted Treatment of Opioid	NameRes_7	NameRes_7	NameRes_7
+29774442	Medication-assisted treatment, HIV and HCV treatment, HIV pre-exposure prophylaxis, Behavioral health services	UMLS:C0994326	Behavioral Health and/or Substance Abuse Treatment Services		NameRes_1	NameRes_1
+29774442	OUD, HCV, HIV	MONDO:0005231	hepatitis C virus infection	SAPBert_4	SAPBert_4	SAPBert_4
+29774442	Models of care	UMLS:C0596657	health care model	SAPBert_1		
+29774442	Research	UMLS:C0035168	research	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+36053258	Fentanyl	PUBCHEM.COMPOUND:3345	Fentanyl	SAPBert_1	SAPBert_1	SAPBert_1
+36053258	NPAS2	NCBIGene:18143	Npas2 (Mus musculus)	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1
+36053258	Fentanyl analgesia	UMLS:C3202977	Analgesia		NameRes_1,SAPBert_3	
+36053258	Fentanyl analgesia	PUBCHEM.COMPOUND:3345	Fentanyl		SAPBert_6	
+36053258	Chronic pain	HP:0012532	Chronic pain	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+36053258	Chronic pain	UMLS:C5700083	chronic pain (diagnosis)	NameRes_4	NameRes_4	
+34864356	Naloxone	PUBCHEM.COMPOUND:5284596	Naloxone	SAPBert_1	SAPBert_1	SAPBert_1
+34864356	Opioid overdoses	UMLS:C0579142	Opiate Overdose	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1
+34864356	Communities with more individuals treated with buprenorphine and communities with more opioid-related overdose deaths	UMLS:C5229059	Medication assisted treatment, buprenorphine (oral); weekly bundle including dispensing and/or administration, substance use counseling, individual and group therapy, and toxicology testing if performed (provision of the services by a medicare-enrolled opioid treatment program)		SAPBert_6	SAPBert_6
+34864356	Communities with larger Hispanic populations and more rural communities	UMLS:C0086944	Rural Communities	NameRes_1	NameRes_1	NameRes_1
+34864356	Communities with larger Hispanic populations and more rural communities	UMLS:C0019576	Hispanic Americans		SAPBert_1	SAPBert_1
+34864356	Pharmacist	UMLS:C0031323	Pharmacist	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+35441890	Intervertebral disc degeneration	MONDO:0011385	intervertebral disc degenerative disorder	SAPBert_1	SAPBert_1	SAPBert_1
+35441890	Disc health	UBERON:0001066	intervertebral disk		SAPBert_1	
+35441890	Cartilage endplate (CEP)	UBERON:0014386	vertebral endplate	SAPBert_3	SAPBert_3	SAPBert_3
+35441890	Cartilage endplate (CEP)	UMLS:C4510222	Structure of vertebral endplate	SAPBert_4	SAPBert_4	
+35441890	Vertebral bone marrow fat fraction (BMFF)	UMLS:C0229622	Structure of bone marrow of vertebral body	NameRes_7	NameRes_7	
+33481403	Postoperative nausea and vomiting (PONV)	UMLS:C0520909	Postoperative Nausea and Vomiting	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+33481403	Analgesia	UMLS:C0451615	Pain relief	SAPBert_4		
+33481403	Analgesia	UMLS:C1304888	Pain control	SAPBert_9	SAPBert_9	
+33481403	Opioid use	UMLS:C0240602	opioid use	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+33481403	Respiratory depression	EFO:0009842	respiratory depression	NameRes_1	NameRes_1	NameRes_1
+33481403	Methadone	CHEBI:136003	(-)-methadone	NameRes_1	NameRes_1	
+33481403	Methadone	PUBCHEM.COMPOUND:4095	Methadone	SAPBert_1	SAPBert_1	SAPBert_1
+33481403	Methadone	UMLS:C0699061	Amidone brand of methadone	SAPBert_7	SAPBert_7	
+33481403	Morphine equivalent dose	UMLS:C4724759	Milligram Morphine Equivalent	NameRes_1,SAPBert_6	NameRes_1,SAPBert_6	NameRes_1,SAPBert_6
+30829142	Turnover	UMLS:C0031227	Personnel Turnover	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1
+30829142	Substance use disorder (SUD)	UMLS:C0038586	Substance Use Disorders	SAPBert_1	SAPBert_1	SAPBert_1
+30829142	Agency employment	UMLS:C0014003	Employment	NameRes_6,SAPBert_2		
+30247321	Physicians	UMLS:C1306754	Medical practitioner	SAPBert_2	SAPBert_2	SAPBert_2
+30247321	Surgical specialty	UMLS:C3853799	Allopathic & Osteopathic Physicians - Surgery	SAPBert_4		SAPBert_4
+30247321	Providers	UMLS:C1138603	Provider	SAPBert_1	SAPBert_1	
+30247321	Opioid	PUBCHEM.COMPOUND:126961754	Opioid	NameRes_1	NameRes_1	NameRes_1
+30247321	Opioid	MESH:D000701	Analgesics, Opioid	SAPBert_2	SAPBert_2	
+30247321	Opioid	UMLS:C0242402	Opioids		SAPBert_1	
+35988161	Nonpharmacological interventions	UMLS:C4050321	Nonpharmacologic intervention for pain:Type:Pt:^Patient:Nom	SAPBert_2	SAPBert_2	SAPBert_2
+35988161	Cancer patients with chronic pain	NCIT:C9467	Chronic Cancer Pain	NameRes_1	NameRes_1	NameRes_1
+35988161	Cancer patients with chronic pain	UMLS:C4544056	Chronic pain due to malignant neoplastic disease		SAPBert_1	
+35988161	Pain catastrophizing	UMLS:C3178745	Pain Catastrophizing	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+35988161	Pain interference	UMLS:C4034389	Pain interference score	NameRes_1	NameRes_1	NameRes_1
+35988161	Depression	UMLS:C2362914	Clinical depression	SAPBert_3	SAPBert_3	
+35988161	Depression	MONDO:0002050	depressive disorder	SAPBert_8	SAPBert_8	SAPBert_8
+35988161	Pain severity	UMLS:C1507013	Pain severity	NameRes_1	NameRes_1	NameRes_1
+28151486	BIK	NCBIGene:638	BIK (Homo sapiens)	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2
+28151486	BIK	UMLS:C0384003	BIK protein, human	SAPBert_5	SAPBert_5	
+28151486	Star-PAP	UniProtKB:Q9H6E5	STPAP_HUMAN Speckle targeted PIP5K1A-regulated poly(A) polymerase (sprot)	SAPBert_7	SAPBert_7	SAPBert_7
+28151486	Chemotherapy drugs	UMLS:C0729502	Chemotherapeutic agent	SAPBert_1	SAPBert_1	SAPBert_1
+28151486	Breast cancer	MONDO:0007254	breast cancer	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+28151486	Breast cancer	MONDO:0004989	breast carcinoma	SAPBert_2	SAPBert_2	
+28151486	Breast cancer	UMLS:C0947741	Breast neoplasms malignant and unspecified (incl nipple)	SAPBert_3	SAPBert_3	
+28151486	Breast cancer	UMLS:C3649897	malignant breast tissue neoplasm	SAPBert_4	SAPBert_4	
+28151486	Breast cancer	UMLS:C1299258	Primary malignant neoplasm of breast	SAPBert_5	SAPBert_5	
+28151486	Breast cancer	UMLS:C2842138	Malignant neoplasm of unspecified site of unspecified female breast	SAPBert_7	SAPBert_7	
+28151486	Mammary epithelial cells	CL:0002327	mammary gland epithelial cell	NameRes_3,SAPBert_1	NameRes_3,SAPBert_1	NameRes_3,SAPBert_1
+31445430	Negative affect	HP:0031467	Negative affectivity	NameRes_2	NameRes_2	NameRes_2
+31445430	Infants	UMLS:C0021270	Infant	SAPBert_1	SAPBert_1	SAPBert_1
+31445430	Mothers	UMLS:C0026591	Mother (person)	SAPBert_1	SAPBert_1	SAPBert_1
+31445430	Positive affect	UMLS:C0233474	Pleasurable affect, NOS	SAPBert_1	SAPBert_1	
+18544179	Fentanyl	PUBCHEM.COMPOUND:3345	Fentanyl	SAPBert_1	SAPBert_1	SAPBert_1
+18544179	Bradycardia	HP:0001662	Bradycardia	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+18544179	Bradycardia	UMLS:C0858328	Bradycardia NOS (excl fetal)	SAPBert_9	SAPBert_9	
+18544179	Respiratory depression	EFO:0009842	respiratory depression	NameRes_1	NameRes_1	NameRes_1
+18544179	Pain	HP:0012531	Pain	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+18544179	Nausea and vomiting	UMLS:C0520909	Postoperative Nausea and Vomiting	NameRes_2	NameRes_2	NameRes_2
+32168224	HCV	UMLS:C0220847	hepatitis C virus	SAPBert_1	SAPBert_1	SAPBert_1
+32168224	Injection drug use	UMLS:C0699778	intravenous drug use	SAPBert_1	SAPBert_1	SAPBert_1
+32168224	Injection drug use	UMLS:C5424598	Injection drug use		NameRes_1	
+32168224	Pregnant women	UMLS:C0033011	Pregnant Women	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+32168224	HCV antibody	NCIT:C160411	Hepatitis C Virus Antibody Positive	NameRes_8,SAPBert_10		NameRes_8,SAPBert_10
+32168224	HCV antibody	MESH:D018937	Hepatitis C Antibodies	NameRes_9,SAPBert_1	NameRes_9,SAPBert_1	
+32168224	HCV antibody	UMLS:C0166049	Hepatitis C Antibodies	NameRes_10	NameRes_10	
+32168224	Neonates	UMLS:C0021289	Infant, Newborn	SAPBert_3	SAPBert_3	SAPBert_3
+32168224	Mothers	UMLS:C0026591	Mother (person)	SAPBert_1	SAPBert_1	SAPBert_1
+32168224	Blood transfusion	UMLS:C0005841	Blood Transfusion	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+32168224	Blood transfusion	UMLS:C0371802	Transfusion, blood or blood components	SAPBert_4	SAPBert_4	
+35625888	Opioid withdrawal in neonates	UMLS:C2063269	neonatal opioid withdrawal	NameRes_3,SAPBert_1	NameRes_3,SAPBert_1	NameRes_3,SAPBert_1
+35625888	Opioid withdrawal in neonates	UMLS:C3274639	Neonatal Opiate Withdrawal Syndrome	SAPBert_2	SAPBert_2	
+35625888	Placental dysfunction	UMLS:C0233368	Deficiency of placental function	SAPBert_2	SAPBert_2	
+35625888	Placental dysfunction	UMLS:C3469140	placental dysfunction affecting newborn		NameRes_1,SAPBert_5	
+35625888	Genes (PLD1, MGAM, ALCS2, KCNMA1)	NCBIGene:8972	MGAM (Homo sapiens)	NameRes_1	NameRes_1	NameRes_1
+35625888	Abnormal fetal brain development	UMLS:C3272759	Brain Development Abnormality	SAPBert_1	SAPBert_1	SAPBert_1
+35625888	Prenatal opioid exposure	UMLS:C2114037	prenatal exposure to narcotics	NameRes_7,SAPBert_1	NameRes_7,SAPBert_1	NameRes_7,SAPBert_1
+35625888	Placental DNA methylation	UMLS:C0376452	DNA Methylation	SAPBert_3		SAPBert_3
+35625888	Differentially methylated CpG sites	GO:0010424	DNA methylation on cytosine within a CG sequence	SAPBert_9	SAPBert_9	SAPBert_9
+33138931	Individuals with SUD	UMLS:C0033882	Psychoactive substance use disorder, NOS	SAPBert_9	SAPBert_9	SAPBert_9
+33138931	Parenting support	UMLS:C5687154	Intervention to support parenting	NameRes_1,SAPBert_4	NameRes_1,SAPBert_4	NameRes_1,SAPBert_4
+33138931	Parenting support	UMLS:C0418946	Support for parent	SAPBert_1	SAPBert_1	
+31722022	Counties in the highest unemployment quartile	UMLS:C0041674	Unemployment			NameRes_2,SAPBert_2
+31722022	Neonatal Abstinence Syndrome (NAS)	MONDO:0005566	neonatal abstinence syndrome	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+31722022	Neonatal Abstinence Syndrome (NAS)	UMLS:C3274639	Neonatal Opiate Withdrawal Syndrome	SAPBert_3	SAPBert_3	
+31722022	Neonatal Abstinence Syndrome (NAS)	UMLS:C3540839	Neonatal Drug Withdrawal	SAPBert_6	SAPBert_6	
+31722022	Neonates with NAS	MONDO:0005566	neonatal abstinence syndrome	SAPBert_1	SAPBert_1	SAPBert_1
+31722022	Metropolitan counties	UMLS:C0815251	metropolitan area	NameRes_5	NameRes_5	NameRes_5
+16720068	74-year-old man	UMLS:C4035745	70-74 years old	NameRes_4	NameRes_4	NameRes_4
+16720068	paroxetine and alprazolam	CHEBI:2611	alprazolam	NameRes_1	NameRes_1	NameRes_1
+16720068	paroxetine and alprazolam	PUBCHEM.COMPOUND:934161	Paroxetine, cis-(+/-)-		NameRes_9	
+16720068	Depressive symptoms	UMLS:C0086132	Depressive Symptoms	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+16720068	Neuroleptic malignant syndrome (NMS)	MONDO:0019790	neuroleptic malignant syndrome	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34580157	Temporomandibular disorder	MONDO:0005473	temporomandibular joint disorder	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34580157	Masseter muscle	UBERON:0001597	masseter muscle	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34580157	Masseter muscle	UMLS:C0024876	Masseter muscle structure	SAPBert_2	SAPBert_2	
+34580157	Pain	HP:0012531	Pain	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34580157	Facial surgery	UMLS:C2224535	facial surgery	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34580157	Trigeminal sensory neurons	CL:4023170	trigeminal sensory neuron	NameRes_2	NameRes_2	NameRes_2
+21911891	4G/5G gene polymorphism	UMLS:C2082389	plasminogen activator inhibitor 1 (PAI-1) 4g/5g polymorphism	NameRes_2,SAPBert_2	NameRes_2,SAPBert_2	
+21911891	4G/5G gene polymorphism	UMLS:C3476465	SERPINE1 gene.c.-675 4G+5G	NameRes_3,SAPBert_3	NameRes_3,SAPBert_3	NameRes_3,SAPBert_3
+21911891	Liver fibrosis	HP:0001395	Hepatic fibrosis	SAPBert_1	SAPBert_1	SAPBert_1
+21911891	PAI-1 serum levels	UMLS:C0522856	Plasminogen activator inhibitor type 1 antigen assay	SAPBert_2	SAPBert_2	
+36335807	socio-demographic, ethnic, and racial representation	UMLS:C0935564	Racial and Ethnic Groups			NameRes_2
+36335807	health inequities	UMLS:C5544540	Health Inequities	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+36335807	health inequities	UMLS:C1171307	health disparity	SAPBert_2	SAPBert_2	
+36335807	health inequities	UMLS:C1955989	Healthcare Disparities	SAPBert_3	SAPBert_3	
+36335807	health inequities	UMLS:C1955988	Health Status Disparities	SAPBert_4	SAPBert_4	
+36335807	health inequities	UMLS:C5690785	Social Disparities in Health	SAPBert_5	SAPBert_5	
+36335807	health inequities	UMLS:C5690783	Economic Disparities in Health	SAPBert_6	SAPBert_6	
+36335807	Diversity in DCN research	UMLS:C1880371	Diversity	SAPBert_1		
+32071073	Clonidine	PUBCHEM.COMPOUND:4656	PI-CLONIDINE		NameRes_2	
+32071073	Sucrose Solution	PUBCHEM.COMPOUND:5988	Sucrose	SAPBert_2	SAPBert_2	
+32071073	Meloxicam	CHEBI:6741	meloxicam	NameRes_1	NameRes_1	NameRes_1
+32071073	Meloxicam	PUBCHEM.COMPOUND:54677470	Meloxicam	SAPBert_1	SAPBert_1	
+32071073	Thermal Pain Tolerance	UMLS:C3276613	Increased pain tolerance	NameRes_3,SAPBert_10	NameRes_3,SAPBert_10	NameRes_3,SAPBert_10
+31308053	TRESK	REACT:R-MMU-1299338	Activation of TRESK (Mus musculus)	NameRes_5	NameRes_5	
+31308053	TRESK	NCBIGene:9424	KCNK6 (Homo sapiens)	SAPBert_2	SAPBert_2	SAPBert_2
+31308053	Nociceptors	UBERON:0035017	nociceptor	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+31308053	Nociceptors	CL:0000198	pain receptor cell	SAPBert_2	SAPBert_2	
+31308053	Headache	HP:0002315	Headache	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+31308053	TRESK knock-out mice	MESH:D018345	Mice, Knockout	NameRes_4	NameRes_4	NameRes_4
+35080937	North Carolina population	UMLS:C0028407	North Carolina	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+35080937	Opioid Overdose Death (OOD)	UMLS:C4036237	Medical-Opioid Poisoning/Overdose	NameRes_2	NameRes_2	NameRes_2
+35080937	Synthetic narcotics	UMLS:C0682986	synthetic opioids	SAPBert_4	SAPBert_4	SAPBert_4
+31689297	Circadian rhythms, Learning and memory, Stress response	UMLS:C1154338	learning and/or memory	NameRes_1	NameRes_1	NameRes_1
+31689297	Circadian rhythms, Learning and memory, Stress response	UMLS:C0008810	Circadian Rhythms	NameRes_5,SAPBert_6	NameRes_5,SAPBert_6	NameRes_5,SAPBert_6
+31689297	VIPR2	NCBIGene:7434	VIPR2 (Homo sapiens)	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+31689297	Opioid addiction	UMLS:C4529964	Opioid Abuse and Addiction	NameRes_4	NameRes_4	NameRes_4
+31689297	Opioid addiction	MONDO:0001225	opioid abuse		SAPBert_1	
+32583337	Opioid use disorder	UMLS:C4324621	Opioid Use Disorder	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+32583337	Medications for opioid use disorder	UMLS:C5209216	Opioid Use Disorder Treatment	NameRes_8	NameRes_8	
+32583337	Medications for opioid use disorder	UMLS:C4704949	Medication Assisted Treatment of Opioid	SAPBert_9	SAPBert_9	SAPBert_9
+32583337	Education	UMLS:C1292796	Education - action	SAPBert_1	SAPBert_1	SAPBert_1
+32583337	Education	UMLS:C0281163	Educational Intervention	SAPBert_3		
+32583337	Veterans	UMLS:C0042610	Veterans	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+32583337	Veterans	UMLS:C0237945	Military Veterans	NameRes_5,SAPBert_2	NameRes_5,SAPBert_2	
+32583337	Counseling	UMLS:C0010210	Counseling	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34103399	Permanent molars	UMLS:C1720362	Entire permanent molar tooth	SAPBert_1	SAPBert_1	SAPBert_1
+34103399	Family income	UMLS:C0557163	Household income	SAPBert_1	SAPBert_1	SAPBert_1
+34103399	Stress	NCIT:C35041	Stress	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34103399	Stress	UMLS:C0449430	Physiological Stress	SAPBert_6	SAPBert_6	
+34103399	Adverse childhood experiences (ACEs)	UMLS:C4296616	Adverse Childhood Experiences	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2
+34103399	T2-weighted magnetic resonance images (MRI)	UMLS:C5556594	T2-Weighted Magnetic Resonance Imaging	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+34103399	Biological development	UMLS:C0678723	Biologic Development		NameRes_2,SAPBert_1	
+34103399	Early life stress	UMLS:C5392223	Early Life Stress	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+33403685	Naloxone	PUBCHEM.COMPOUND:5284596	Naloxone	SAPBert_1	SAPBert_1	SAPBert_1
+33403685	Barriers	UMLS:C0679881	barriers to treatment	SAPBert_3		SAPBert_3
+33403685	Opioid-use disorder	UMLS:C4324621	Opioid Use Disorder	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+33403685	Access to treatment	UMLS:C4039697	Facilitation of access to treatment	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2	NameRes_1,SAPBert_2
+33403685	Access to treatment	UMLS:C5243474	Access to Therapy	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1	NameRes_2,SAPBert_1
+33403685	Access to treatment	UMLS:C0018748	Health Services Accessibility	SAPBert_10	SAPBert_10	
+33646995	Dimethyl Fumarate (DMF)	PUBCHEM.COMPOUND:637568	Dimethyl fumarate	SAPBert_1	SAPBert_1	SAPBert_1
+33646995	Innate immune system	REACT:R-MMU-168249	Innate Immune System (Mus musculus)	NameRes_4	NameRes_4	NameRes_4
+33646995	DMF	PUBCHEM.COMPOUND:637568	Dimethyl fumarate	SAPBert_5	SAPBert_5	SAPBert_5
+33646995	Complex Regional Pain Syndrome (CRPS)	MONDO:0019369	complex regional pain syndrome	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1	NameRes_1,SAPBert_1
+33646995	Nrf2	PR:000011170	nuclear factor erythroid 2-related factor 2	SAPBert_6	SAPBert_6	SAPBert_6
