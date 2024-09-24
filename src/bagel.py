@@ -63,8 +63,9 @@ def go():
         for line in lines[:100]:
             paper = json.loads(line)
             abstract = paper["abstract"]
+            abstract_id = paper['abstract_id']
             entities = list(set([e["entity"] for e in paper["entities"]]))
-            output_paper = {"abstract": abstract, "abstract_id": paper["abstract_id"], "bagel_results": defaultdict(dict)}
+            output_paper = {"abstract": abstract, "abstract_id": abstract_id, "bagel_results": defaultdict(dict)}
             for term in entities:
                 nr_results = nameres.annotate(term, props={}, limit=10)
                 sb_results = sapbert.annotate(term, props={}, limit=10)
@@ -75,9 +76,9 @@ def go():
                 update_by_id(terms, nr_results, "NameRes")
                 update_by_id(terms, sb_results, "SAPBert")
                 augment_results(terms, nameres, taxon_id_to_name)
-                gpt_class_desc_response = ask_classes_and_descriptions(abstract, term, terms)
-                gpt_label_response = ask_labels(abstract, term, terms)
-                gpt_class_response = ask_classes(abstract, term, terms)
+                gpt_class_desc_response = ask_classes_and_descriptions(abstract, term, terms, abstract_id=abstract_id, out_file_path="./gpt_out_classes_and_descriptions.json")
+                gpt_label_response = ask_labels(abstract, term, terms, abstract_id=abstract_id, out_file_path="./gpt_out_label.json")
+                gpt_class_response = ask_classes(abstract, term, terms, abstract_id=abstract_id, out_file_path="./gpt_out_classes.json")
                 output_paper["bagel_results"][term]["label"] = gpt_label_response
                 output_paper["bagel_results"][term]["class"] = gpt_class_response
                 output_paper["bagel_results"][term]["class_description"] = gpt_class_desc_response

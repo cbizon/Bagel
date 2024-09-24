@@ -3,10 +3,12 @@ import requests
 import os
 import json
 from collections import defaultdict
+from pathlib import Path
+from typing import Optional
 
 api_key = os.environ.get("OPENAI_API_KEY")
 
-def ask_classes_and_descriptions(text, term, termlist):
+def ask_classes_and_descriptions(text, term, termlist, out_file_path: Optional[str|Path] = None, abstract_id: Optional[int] = None):
     """Get GPT results based only on the labels of the terms."""
 
     # Get the Labels
@@ -50,6 +52,21 @@ def ask_classes_and_descriptions(text, term, termlist):
     """
 
     results = query(prompt)
+    
+    if out_file_path is not None:
+        temp = {}
+        temp['abstract_id'] = abstract_id
+        temp['term'] = term
+        temp['prompt'] = prompt
+        temp['output'] = results
+        if os.path.isfile(out_file_path):
+            with open(out_file_path, "r") as f:
+                out = json.load(f)
+            out.append(temp)
+        else:
+            out = [temp]
+        with open(out_file_path, "w") as f:
+            json.dump(out, f)
 
     for result in results:
         syn = result['synonym']
@@ -67,7 +84,7 @@ def ask_classes_and_descriptions(text, term, termlist):
     return grouped_by_syntype
 
 
-def ask_classes(text, term, termlist):
+def ask_classes(text, term, termlist, out_file_path: Optional[str|Path] = None, abstract_id: Optional[int] = None):
     """Get GPT results based only on the labels of the terms."""
 
     # Get the Labels
@@ -108,6 +125,21 @@ def ask_classes(text, term, termlist):
     """
 
     results = query(prompt)
+    
+    if out_file_path is not None:
+        temp = {}
+        temp['abstract_id'] = abstract_id
+        temp['term'] = term
+        temp['prompt'] = prompt
+        temp['output'] = results
+        if os.path.isfile(out_file_path):
+            with open(out_file_path, "r") as f:
+                out = json.load(f)
+            out.append(temp)
+        else:
+            out = [temp]
+        with open(out_file_path, "w") as f:
+            json.dump(out, f)
 
     for result in results:
         syn = result['synonym']
@@ -125,7 +157,7 @@ def ask_classes(text, term, termlist):
     return grouped_by_syntype
 
 
-def ask_labels(text, term, termlist):
+def ask_labels(text, term, termlist, out_file_path: Optional[str|Path] = None, abstract_id: Optional[int] = None):
     """Get GPT results based only on the labels of the terms."""
 
     # Get the Labels
@@ -161,6 +193,21 @@ def ask_labels(text, term, termlist):
     """
 
     results = query(prompt)
+    
+    if out_file_path is not None:
+        temp = {}
+        temp['abstract_id'] = abstract_id
+        temp['term'] = term
+        temp['prompt'] = prompt
+        temp['output'] = results
+        if os.path.isfile(out_file_path):
+            with open(out_file_path, "r") as f:
+                out = json.load(f)
+            out.append(temp)
+        else:
+            out = [temp]
+        with open(out_file_path, "w") as f:
+            json.dump(out, f)
 
     for result in results:
         syn = result['synonym']
@@ -174,7 +221,7 @@ def ask_labels(text, term, termlist):
         syntype = termlist[curie].get("synonym_Type","unrelated")
         termlist[curie]["curie"] = curie
         grouped_by_syntype[syntype].append(termlist[curie])
-    return grouped_by_syntype
+    return grouped_by_syntype, (prompt, result)
 
 def query(prompt):
     headers = {
