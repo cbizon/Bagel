@@ -54,7 +54,7 @@ def go():
     session.mount('http://', HTTPAdapter(max_retries=retries))
     session.mount('https://', HTTPAdapter(max_retries=retries))
     nameres = NameResNEREngine(session)
-    # sapbert = SAPBERTNEREngine(session)
+    sapbert = SAPBERTNEREngine(session)
     with open("gpt4_parsed.jsonl", "r") as inf:
         lines = inf.readlines()
     random.shuffle(lines)
@@ -68,13 +68,13 @@ def go():
             output_paper = {"abstract": abstract, "abstract_id": abstract_id, "bagel_results": defaultdict(dict)}
             for term in entities:
                 nr_results = nameres.annotate(term, props={}, limit=10)
-                # sb_results = sapbert.annotate(term, props={}, limit=10)
+                sb_results = sapbert.annotate(term, props={}, limit=10)
                 # We have results from both nr and sb. But we want to fill those out with consistent information that may
                 # or may not be returned from each source
                 # First merge the results by identifier (not label)
                 terms = defaultdict(lambda: {"return_parameters": []})
                 update_by_id(terms, nr_results, "NameRes")
-                # update_by_id(terms, sb_results, "SAPBert")
+                update_by_id(terms, sb_results, "SAPBert")
                 augment_results(terms, nameres, taxon_id_to_name)
                 gpt_class_desc_response = ask_classes_and_descriptions(abstract, term, terms, abstract_id=abstract_id, out_file_path="./gpt_out_classes_and_descriptions.json")
                 gpt_label_response = ask_labels(abstract, term, terms, abstract_id=abstract_id, out_file_path="./gpt_out_label.json")
