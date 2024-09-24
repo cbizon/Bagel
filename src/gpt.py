@@ -66,7 +66,7 @@ def ask_classes_and_descriptions(text, term, termlist, out_file_path: Optional[s
         else:
             out = [temp]
         with open(out_file_path, "w") as f:
-            json.dump(out, f)
+            json.dump(out, f, indent=4)
 
     for result in results:
         syn = result['synonym']
@@ -139,7 +139,7 @@ def ask_classes(text, term, termlist, out_file_path: Optional[str|Path] = None, 
         else:
             out = [temp]
         with open(out_file_path, "w") as f:
-            json.dump(out, f)
+            json.dump(out, f, indent=4)
 
     for result in results:
         syn = result['synonym']
@@ -207,7 +207,7 @@ def ask_labels(text, term, termlist, out_file_path: Optional[str|Path] = None, a
         else:
             out = [temp]
         with open(out_file_path, "w") as f:
-            json.dump(out, f)
+            json.dump(out, f, indent=4)
 
     for result in results:
         syn = result['synonym']
@@ -221,7 +221,7 @@ def ask_labels(text, term, termlist, out_file_path: Optional[str|Path] = None, a
         syntype = termlist[curie].get("synonym_Type","unrelated")
         termlist[curie]["curie"] = curie
         grouped_by_syntype[syntype].append(termlist[curie])
-    return grouped_by_syntype, (prompt, result)
+    return grouped_by_syntype
 
 def query(prompt):
     headers = {
